@@ -1,0 +1,7 @@
+D:\COGNIZANT\WEEK_1\E_commerce_platform search\ECommerceSearchFunction\ECommerceSearchFunction\obj\Debug\ECommerceSearchFunction.csproj.AssemblyReference.cache
+D:\COGNIZANT\WEEK_1\E_commerce_platform search\ECommerceSearchFunction\ECommerceSearchFunction\obj\Debug\ECommerceSearchFunction.csproj.CoreCompileInputs.cache
+D:\COGNIZANT\WEEK_1\E_commerce_platform search\ECommerceSearchFunction\ECommerceSearchFunction\bin\Debug\ECommerceSearchFunction.exe.config
+D:\COGNIZANT\WEEK_1\E_commerce_platform search\ECommerceSearchFunction\ECommerceSearchFunction\bin\Debug\ECommerceSearchFunction.exe
+D:\COGNIZANT\WEEK_1\E_commerce_platform search\ECommerceSearchFunction\ECommerceSearchFunction\bin\Debug\ECommerceSearchFunction.pdb
+D:\COGNIZANT\WEEK_1\E_commerce_platform search\ECommerceSearchFunction\ECommerceSearchFunction\obj\Debug\ECommerceSearchFunction.exe
+D:\COGNIZANT\WEEK_1\E_commerce_platform search\ECommerceSearchFunction\ECommerceSearchFunction\obj\Debug\ECommerceSearchFunction.pdb

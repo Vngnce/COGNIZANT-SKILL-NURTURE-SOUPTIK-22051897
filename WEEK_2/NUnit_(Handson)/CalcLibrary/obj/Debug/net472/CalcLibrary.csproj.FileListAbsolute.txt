@@ -1,0 +1,9 @@
+D:\COGNIZANT\WEEK_2\NUnit_Calculator_Solution_FIXED\CalcLibrary\bin\Debug\net472\CalcLibrary.dll
+D:\COGNIZANT\WEEK_2\NUnit_Calculator_Solution_FIXED\CalcLibrary\bin\Debug\net472\CalcLibrary.pdb
+D:\COGNIZANT\WEEK_2\NUnit_Calculator_Solution_FIXED\CalcLibrary\obj\Debug\net472\CalcLibrary.csproj.AssemblyReference.cache
+D:\COGNIZANT\WEEK_2\NUnit_Calculator_Solution_FIXED\CalcLibrary\obj\Debug\net472\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\COGNIZANT\WEEK_2\NUnit_Calculator_Solution_FIXED\CalcLibrary\obj\Debug\net472\CalcLibrary.AssemblyInfoInputs.cache
+D:\COGNIZANT\WEEK_2\NUnit_Calculator_Solution_FIXED\CalcLibrary\obj\Debug\net472\CalcLibrary.AssemblyInfo.cs
+D:\COGNIZANT\WEEK_2\NUnit_Calculator_Solution_FIXED\CalcLibrary\obj\Debug\net472\CalcLibrary.csproj.CoreCompileInputs.cache
+D:\COGNIZANT\WEEK_2\NUnit_Calculator_Solution_FIXED\CalcLibrary\obj\Debug\net472\CalcLibrary.dll
+D:\COGNIZANT\WEEK_2\NUnit_Calculator_Solution_FIXED\CalcLibrary\obj\Debug\net472\CalcLibrary.pdb

@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6F3CQ19kQg=",
+  "success": true,
+  "projectFilePath": "D:\\COGNIZANT\\WEEK_2\\NUnit_(Handson)\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Souptik\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\Souptik\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\Souptik\\.nuget\\packages\\nunit\\4.0.0\\nunit.4.0.0.nupkg.sha512",
+    "C:\\Users\\Souptik\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "CalcLibrary.Tests depends on NUnit (>= 3.14.1) but NUnit 3.14.1 was not found. NUnit 4.0.0 was resolved instead.",
+      "projectPath": "D:\\COGNIZANT\\WEEK_2\\NUnit_(Handson)\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\COGNIZANT\\WEEK_2\\NUnit_(Handson)\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}

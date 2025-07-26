@@ -1,0 +1,59 @@
+.cohortsContainer {
+    border: 1px solid #ccc;
+    padding: 32px 32px 16px 32px;
+    border-radius: 8px;
+    margin: 40px auto;
+    max-width: 900px;
+    background: #fff;
+}
+
+.header {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+.cardsGrid {
+    display: flex;
+    gap: 24px;
+    justify-content: flex-start;
+}
+
+.card {
+    flex: 1 1 0;
+    min-width: 230px;
+    background: #fafafa;
+    border: 1px solid #dedede;
+    border-radius: 10px;
+    padding: 16px 20px;
+    box-sizing: border-box;
+}
+
+.cohortTitleBlue {
+    color: #196dff;
+    font-weight: bold;
+    font-size: 1.13rem;
+    margin-bottom: 8px;
+    text-decoration: underline;
+}
+
+.cohortTitleGreen {
+    color: #219653;
+    font-weight: bold;
+    font-size: 1.13rem;
+    margin-bottom: 8px;
+    text-decoration: underline;
+}
+
+.label {
+    font-size: 0.98rem;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.value {
+    margin-bottom: 6px;
+    font-size: 0.95rem;
+}
+
+
